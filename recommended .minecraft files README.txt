@@ -1,0 +1,1 @@
+Extract the following files to C:\Users\{user}\AppData\Roaming\.minecraft
