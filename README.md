@@ -1,4 +1,11 @@
 # Recommended .minecraft files for The Blue Teck World Gaming server
+
+## Recommendations:
+
+1. If you use the DLC resourcepack, please see the requirements.
+2. If you want a better FPS, use the Fabric Sodium modpack or Fabric. You probably won't see only a limited part of the new features of the DLC resourcepack.
+3. 
+
 ## DLC and Modpacks
 
 Want a better gaming experience?
@@ -13,7 +20,7 @@ WARNING: Only use 1.19.2 when using the modpacks. If you want to use another ver
 ### The resourcepack is designed for 1.19.2 and gives you a better experience when the requirements are satsfied.
 
 
-🚨 Requirements (Software) (recommended): Minecraft 1.19.2 with Optifine 1.19.2 (Recomended version: OptiFine_1.19.2_HD_U_H9) (FabricOptifine modpack is very recommended for FPS, better experience, custom textures and more)
+🚨 Requirements (Software) (recommended): Minecraft Forge or Fabric (Fabric 1.19.2 recommended) 1.19.2 with Optifine 1.19.2 (Recomended version: OptiFine_1.19.2_HD_U_H9) (FabricOptifine modpack is very recommended for FPS, better experience, custom textures and more)
 
 
 🚨 Requirements (Settings) (recommended): Options...>Video Settings...>Quality...> 
