@@ -1,3 +1,9 @@
+# \> Important Note \<:
+
+please note that \> This Package \< is Old and Its Content probably won't work.
+All \> Unsatisfactory Errors \< won't be Corrected or Asissted.
+We don't support \> Our Minecraft Server \< anymore.
+
 # Recommended .minecraft files for The Blue Teck World Gaming server
 
 ## Recommendations:
