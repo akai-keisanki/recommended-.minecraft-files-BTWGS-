@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This repo is very old and may be permanently out of use.
+> This repo may be deleted, corrupted, reseted, ressignified or reused.
+
 # \> Important Note \<:
 
 please note that \> This Package \< is Old and Its Content probably won't work.
